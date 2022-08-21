@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart.**
 
-- 💬 Ask me about **Flutter, Dart.**
+- 💬 Ask me about **Flutter, Dart & Java.**
 
 - 📫 How to reach me **utapdv02@gmail.com**
 
