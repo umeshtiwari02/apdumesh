@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **HTML and CSS.**
 
-- 💬 Ask me about **Flutter, Dart & Java.**
+<!-- - 💬 Ask me about **Flutter, Dart & Java.** -->
 
 - 📫 You can reach me here **utapdv02@gmail.com**
 
